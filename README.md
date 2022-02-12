@@ -17,4 +17,4 @@ pip install Pillow
         return Data, text
 
 
-By adding this to session you can send that base64 image content to frontend and validate the session.
+Add the text to the session and you can send that base64 image content to frontend after then validate the frontend response value with stored session key.
